@@ -16,7 +16,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 <!-- My Toolbox section -->
 ### My Toolbox
 <div>
-    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" style="margin-right: 5px;"/>
+    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" style="margin-right: 100px;"/>
     <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" height="50" alt="Github Icon" style="margin-right: 5px;"/>
     <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" width="50" height="50" alt="Git Icon" style="margin-right: 5px;"/>
     <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" width="50" height="50" alt="PyTorch Icon" style="margin-right: 5px;"/>
