@@ -1,42 +1,32 @@
-<h1 align="center">Hi 👋, I'm hi</h1>
-<h3 align="center">yo</h3>
+<!--
+    Hey there, I'm Mattia Barbiere!
+    Welcome my README code
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ht&label=Profile%20views&color=0e75b6&style=flat" alt="ht" /> </p>
+<!-- Top wave of the page -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=header" alt="header"/> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ht" alt="ht" /></a> </p>
+<!-- Name and title -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2500&pause=500&color=4A90E2&width=435&lines=Hello%2C+my+name+is+Mattia+Barbiere;Welcome+to+my+GitHub+page!" alt="Typing SVG"/>
+</a>
 
-- 🔭 I’m currently working on [gr](ge)
+<!-- About Me section -->
+### About Me
+I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
-- 🌱 I’m currently learning **ge**
+<!-- My Toolbox section -->
+### My Toolbox
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode)]()
 
-- 👯 I’m looking to collaborate on [gr](ge)
+<!-- In Progress section -->
+### In Progress...
+[![Learning](https://skillicons.dev/icons?i=cpp)]()
 
-- 🤝 I’m looking for help with [gr](ge)
+<!-- Connect with me section -->
+### Connect with me!
+[![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mattia-nino-barbiere/)
+[![Connect](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/369133265992548352)
 
-- 👨‍💻 All of my projects are available at [ge](ge)
-
-- 📝 I regularly write articles on [ge](ge)
-
-- 💬 Ask me about **ge**
-
-- 📫 How to reach me **ge**
-
-- 📄 Know about my experiences [ge](ge)
-
-- ⚡ Fun fact **ge**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ht" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ht" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ht" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ht&show_icons=true&locale=en&layout=compact" alt="ht" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ht&show_icons=true&locale=en" alt="ht" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ht&" alt="ht" /></p>
+<!-- Bottom wave of the page -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer" alt="footer"/>
