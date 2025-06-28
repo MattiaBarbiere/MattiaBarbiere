@@ -17,22 +17,16 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 <!-- My Toolbox section -->
 ### My Toolbox
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light" alt="My Skills"/>
-</picture>
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light)]()
 
 <!-- In Progress section -->
 ### In Progress...
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="Learning"/>
-</picture>
+[![Learning](https://skillicons.dev/icons?i=cpp&theme=light)]()
 
 <!-- Connect with me section -->
 ### Connect with me!
-[![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mattia-nino-barbiere/)
-[![Connect](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/369133265992548352)
+[![Connect](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/mattia-nino-barbiere/)
+[![Connect](https://skillicons.dev/icons?i=discord&theme=light)](https://discordapp.com/users/369133265992548352)
 
 <!-- Bottom wave of the page -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer" alt="footer"/>
