@@ -10,11 +10,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2500&pause=500&color=4A90E2&width=435&lines=Hello%2C+my+name+is+Mattia+Barbiere;Welcome+to+my+GitHub+page!" alt="Typing SVG"/>
 
 <!-- About Me section -->
-### About Me
+## About Me
 I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
+### Studying at
+<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/EPFL.svg" width="50" height="50" alt="EPFL Icon" />
+
+
 <!-- My Toolbox section -->
-### My Toolbox
+## My Toolbox
 <div>
     <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" />
     <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" height="50" alt="Github Icon" />
@@ -28,11 +32,11 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 <!-- If you want to use skillicons.dev: [![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light)]() -->
 
 <!-- In Progress section -->
-### In Progress...
+## In Progress...
 <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" height="50" alt="C++ Icon" />
 
 <!-- Connect with me section -->
-### Connect with me!
+## Connect with me!
 <a href="https://www.linkedin.com/in/mattia-nino-barbiere/">
     <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LinkedIn.svg" width="50" height="50" alt="LinkedIn Icon" />
 </a>
