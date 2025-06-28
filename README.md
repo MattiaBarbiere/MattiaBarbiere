@@ -35,6 +35,8 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 <!-- In Progress section -->
 ## In Progress...
 <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" height="50" alt="C++ Icon" />
+<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CUDA.svg" width="50" height="50" alt="CUDA Icon" />
+<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CUDA2.svg" width="50" height="50" alt="CUDA Icon" />
 
 <!-- Connect with me section -->
 ## Connect with me!
