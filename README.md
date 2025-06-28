@@ -31,7 +31,7 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" width="50" height="50" alt="Git Icon" />
     </a>
     <a href="https://pytorch.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" width="50" height="50" alt="PyTorch Icon" />
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light1.svg" width="50" height="50" alt="PyTorch Icon" />
     </a>
     <a href="https://www.latex-project.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LaTeX-Light.svg" width="50" height="50" alt="Latex Icon" />
