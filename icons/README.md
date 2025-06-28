@@ -1,0 +1,2 @@
+# Icons
+A lot of these icons are taken from [skillicons.dev](https://skillicons.dev/). That website has many great looking icons and very good explanations on how to use them on their [GitHub](https://github.com/tandpfun/skill-icons/tree/main). Nevertheless, I wanted to make some icons that are very specific to my page so I decided to save the images here.

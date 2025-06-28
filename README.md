@@ -17,6 +17,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 <!-- My Toolbox section -->
 ### My Toolbox
+[![python](https://)]
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light)]()
 
 <!-- In Progress section -->
