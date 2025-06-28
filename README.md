@@ -22,7 +22,7 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 ## My Toolbox
 <div align="left" style="align-items: left;">
     <a href="https://www.python.org/" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" style="display: block;" />
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="" style="display: block;"/>
     </a>
     <a href="https://github.com/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" height="50" alt="Github Icon" />
