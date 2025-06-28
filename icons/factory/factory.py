@@ -1,6 +1,7 @@
 """
 Python script to convert an image to an SVG icon with a rounded rectangle background and transparent corners.
-The output SVG will have a specified background color and the image will be centered and scaled to fit
+The output SVG will have a specified background color and the image will be centered and scaled to fit.
+The best results come when the image has a transparent background.
 """
 
 # Imports
@@ -63,4 +64,7 @@ def convert_image_to_svg(image_name, output_name, size=256, corner_radius=60, bg
 if __name__ == "__main__":
     # Call the conversion function with a custom background color
     convert_image_to_svg("EPFL_logo.jpg", "EPFL.svg", bg_color="#FF0000")
-    convert_image_to_svg("badge-nvidia-cuda-cpp.png", "CUDA2.svg", bg_color="#F3F2ED")
+    convert_image_to_svg("CUDA_logo.png", "CUDA.svg", bg_color="#F3F2ED")
+    convert_image_to_svg("CUDA_logo2.png", "CUDA2.svg", bg_color="#F3F2ED")
+    convert_image_to_svg("openmpi_logo.webp", "OpenMPI.svg", bg_color="#F3F2ED")
+    convert_image_to_svg("matplotlib_logo3.png", "Matplotlib.svg", bg_color="#F3F2ED")
