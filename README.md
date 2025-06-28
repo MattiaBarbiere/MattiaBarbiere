@@ -21,22 +21,47 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 <!-- My Toolbox section -->
 ## My Toolbox
 <div>
-    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" />
-    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" height="50" alt="Github Icon" />
-    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" width="50" height="50" alt="Git Icon" />
-    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" width="50" height="50" alt="PyTorch Icon" />
-    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LaTeX-Light.svg" width="50" height="50" alt="Latex Icon" />
-    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/SciKitLearn-Light.svg" width="50" height="50" alt="SciKitLearn Icon" />
-    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/VSCode-Light.svg" width="50" height="50" alt="VSCode Icon" />
+    <a href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" />
+    </a>
+    <a href="https://github.com/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" height="50" alt="Github Icon" />
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" width="50" height="50" alt="Git Icon" />
+    </a>
+    <a href="https://pytorch.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" width="50" height="50" alt="PyTorch Icon" />
+    </a>
+    <a href="https://www.latex-project.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LaTeX-Light.svg" width="50" height="50" alt="Latex Icon" />
+    </a>
+    <a href="https://scikit-learn.org/stable/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/SciKitLearn-Light.svg" width="50" height="50" alt="SciKitLearn Icon" />
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/VSCode-Light.svg" width="50" height="50" alt="VSCode Icon" />
+    </a>
+    <a href="https://matplotlib.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matplotlib.svg" width="50" height="50" alt="Matplotlib Icon" />
+    </a>
 </div>
 
 <!-- If you want to use skillicons.dev: [![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light)]() -->
 
 <!-- In Progress section -->
 ## In Progress...
-<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" height="50" alt="C++ Icon" />
-<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CUDA.svg" width="50" height="50" alt="CUDA Icon" />
-<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CUDA2.svg" width="50" height="50" alt="CUDA Icon" />
+<div>
+    <a href="https://isocpp.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" height="50" alt="C++ Icon" />
+    </a>   
+    <a href="https://developer.nvidia.com/cuda-zone">  
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CUDA.svg" width="50" height="50" alt="CUDA Icon" />
+    </a>    
+    <a href="https://www.open-mpi.org/">  
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/OpenMPI.svg" width="50" height="50" alt="OpenMPI Icon" />
+    </a>
+</div>
 
 <!-- Connect with me section -->
 ## Connect with me!
