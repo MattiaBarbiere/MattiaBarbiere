@@ -11,11 +11,12 @@
 
 <!-- About Me section -->
 ## About Me
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
+Hey! I'm a MSc student in applied mathematics with a passion for scientific computing. I love diving into both the theory and practice of math and computer science. Right now, I'm exploring machine learning and neural networks, especially how they can solve partial differential equations (PDEs). I enjoy working on complex problems and creating solutions that mix math with computing. Check out my projects and feel free to connect if you're into similar stuff!
 
 ### Studying at
-<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/EPFL.svg" width="50" height="50" alt="EPFL Icon" />
-
+<a href="https://www.epfl.ch/en/">
+    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/EPFL.svg" width="50" height="50" alt="EPFL Icon" />
+</a>
 
 <!-- My Toolbox section -->
 ## My Toolbox
