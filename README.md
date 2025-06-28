@@ -17,8 +17,17 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 <!-- My Toolbox section -->
 ### My Toolbox
-[![python](https://)]
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light)]()
+<!-- ![python](https://github.com/MattiaBarbiere/MattiaBarbiere/blob/main/icons/Python-Light.svg) -->
+<!-- <img src="https://github.com/MattiaBarbiere/MattiaBarbiere/blob/main/icons/Python-Light.svg" width="40"/> -->
+<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" style="margin-right: 5px;"/>
+<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" height="50" alt="Github Icon" style="margin-right: 5px;"/>
+<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" width="50" height="50" alt="Git Icon" style="margin-right: 5px;"/>
+<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" width="50" height="50" alt="PyTorch Icon" style="margin-right: 5px;"/>
+<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LaTeX-Light.svg" width="50" height="50" alt="Latex Icon" style="margin-right: 5px;"/>
+<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/SciKitLearn-Light.svg" width="50" height="50" alt="SciKitLearn Icon" style="margin-right: 5px;"/>
+<img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/VSCode-Light.svg" width="50" height="50" alt="VSCode Icon" style="margin-right: 5px;"/>
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light)]() -->
 
 <!-- In Progress section -->
 ### In Progress...
@@ -26,7 +35,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 <!-- Connect with me section -->
 ### Connect with me!
-[![Connect](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/mattia-nino-barbiere/)
+[![Connect](https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg){width=500}](https://www.linkedin.com/in/mattia-nino-barbiere/)
 [![Connect](https://skillicons.dev/icons?i=discord&theme=light)](https://discordapp.com/users/369133265992548352)
 
 <!-- Bottom wave of the page -->
