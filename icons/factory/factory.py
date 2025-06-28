@@ -67,4 +67,5 @@ if __name__ == "__main__":
     convert_image_to_svg("CUDA_logo.png", "CUDA.svg", bg_color="#F3F2ED")
     convert_image_to_svg("CUDA_logo2.png", "CUDA2.svg", bg_color="#F3F2ED")
     convert_image_to_svg("openmpi_logo.webp", "OpenMPI.svg", bg_color="#F3F2ED")
-    convert_image_to_svg("matplotlib_logo3.png", "Matplotlib.svg", bg_color="#F3F2ED")
+    convert_image_to_svg("matplotlib_logo.png", "Matplotlib.svg", bg_color="#F3F2ED")
+    convert_image_to_svg("numpy.png", "NumPy.svg", bg_color="#F3F2ED")

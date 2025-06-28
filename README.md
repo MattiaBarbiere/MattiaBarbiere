@@ -21,7 +21,7 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 <!-- My Toolbox section -->
 ## My Toolbox
 <div align="left" style="align-items: left;">
-    <a href="https://www.python.org/" style="margin-right:15px;">
+    <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" />
     </a>
     <a href="https://github.com/">
@@ -31,7 +31,7 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" width="50" height="50" alt="Git Icon" />
     </a>
     <a href="https://pytorch.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light1.svg" width="50" height="50" alt="PyTorch Icon" />
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" width="50" height="50" alt="PyTorch Icon" />
     </a>
     <a href="https://www.latex-project.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LaTeX-Light.svg" width="50" height="50" alt="Latex Icon" />
@@ -44,6 +44,9 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
     </a>
     <a href="https://matplotlib.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matplotlib.svg" width="50" height="50" alt="Matplotlib Icon" />
+    </a>
+    <a href="https://numpy.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/NumPy.svg" width="50" height="50" alt="Matplotlib Icon" />
     </a>
 </div>
 
