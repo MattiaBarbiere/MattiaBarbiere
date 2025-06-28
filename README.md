@@ -17,11 +17,17 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 <!-- My Toolbox section -->
 ### My Toolbox
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode)]()
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light" alt="My Skills"/>
+</picture>
 
 <!-- In Progress section -->
 ### In Progress...
-[![Learning](https://skillicons.dev/icons?i=cpp)]()
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark">
+  <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="Learning"/>
+</picture>
 
 <!-- Connect with me section -->
 ### Connect with me!
