@@ -20,11 +20,11 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 
 <!-- My Toolbox section -->
 ## My Toolbox
-<div style="display: flex; gap: 10px;">
-    <a href="https://www.python.org/" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+<div>
+    <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" />
     </a>
-    <a href="https://github.com/" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+    <a href="https://github.com/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" height="50" alt="Github Icon" />
     </a>
     <a href="https://git-scm.com/">
