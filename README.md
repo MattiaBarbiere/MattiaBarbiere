@@ -20,52 +20,32 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 
 <!-- My Toolbox section -->
 ## My Toolbox
-<table border="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none; padding: 0 5px;">
-      <a href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" alt="Python Icon" style="width:50px; height:50px; min-width:50px; min-height:50px;"/>
-      </a>
-    </td>
-    <td style="border: none; padding: 0 5px;">
-      <a href="https://github.com/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" alt="GitHub Icon" style="width:50px; height:50px; min-width:50px; min-height:50px;"/>
-      </a>
-    </td>
-    <td style="border: none; padding: 0 5px;">
-      <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" alt="Git Icon" style="width:50px; height:50px; min-width:50px; min-height:50px;"/>
-      </a>
-    </td>
-    <td style="border: none; padding: 0 5px;">
-      <a href="https://pytorch.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" alt="PyTorch Icon" style="width:50px; height:50px; min-width:50px; min-height:50px;"/>
-      </a>
-    </td>
-    <td style="border: none; padding: 0 5px;">
-      <a href="https://www.latex-project.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LaTeX-Light.svg" alt="LaTeX Icon" style="width:50px; height:50px; min-width:50px; min-height:50px;"/>
-      </a>
-    </td>
-    <td style="border: none; padding: 0 5px;">
-      <a href="https://scikit-learn.org/stable/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/SciKitLearn-Light.svg" alt="Scikit-learn Icon" style="width:50px; height:50px; min-width:50px; min-height:50px;"/>
-      </a>
-    </td>
-    <td style="border: none; padding: 0 5px;">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/VSCode-Light.svg" alt="VSCode Icon" style="width:50px; height:50px; min-width:50px; min-height:50px;"/>
-      </a>
-    </td>
-    <td style="border: none; padding: 0 5px;">
-      <a href="https://matplotlib.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matplotlib.svg" alt="Matplotlib Icon" style="width:50px; height:50px; min-width:50px; min-height:50px;"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
+<div align="left" style="align-items: left;">
+    <a href="https://www.python.org/" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" />
+    </a>
+    <a href="https://github.com/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" height="50" alt="Github Icon" />
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" width="50" height="50" alt="Git Icon" />
+    </a>
+    <a href="https://pytorch.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" width="50" height="50" alt="PyTorch Icon" />
+    </a>
+    <a href="https://www.latex-project.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LaTeX-Light.svg" width="50" height="50" alt="Latex Icon" />
+    </a>
+    <a href="https://scikit-learn.org/stable/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/SciKitLearn-Light.svg" width="50" height="50" alt="SciKitLearn Icon" />
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/VSCode-Light.svg" width="50" height="50" alt="VSCode Icon" />
+    </a>
+    <a href="https://matplotlib.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matplotlib.svg" width="50" height="50" alt="Matplotlib Icon" />
+    </a>
+</div>
 
 <!-- If you want to use skillicons.dev: [![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light)]() -->
 
