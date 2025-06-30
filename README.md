@@ -20,6 +20,7 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 
 <!-- My Toolbox section -->
 ## My Toolbox
+To compliment my mathematical studies I have learned many skills. So far I have learned
 <div align="left" style="align-items: left;">
     <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" />
@@ -46,7 +47,13 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matplotlib.svg" width="50" height="50" alt="Matplotlib Icon" />
     </a>
     <a href="https://numpy.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/NumPy.svg" width="50" height="50" alt="Matplotlib Icon" />
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/NumPy.svg" width="50" height="50" alt="Numpy Icon" />
+    </a>
+    <a href="https://numpy.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Hydra1.svg" width="50" height="50" alt="Matplotlib Icon" />
+    </a>
+    <a href="https://numpy.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Hydra2.svg" width="50" height="50" alt="Matplotlib Icon" />
     </a>
 </div>
 
@@ -54,7 +61,7 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 
 <!-- In Progress section -->
 ## In Progress...
-My toolbox keeps growing with every project I do.
+My toolbox keeps growing with every project I do. Currently in my learning pipeline I have
 <div>
     <a href="https://isocpp.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" height="50" alt="C++ Icon" />
@@ -64,7 +71,7 @@ My toolbox keeps growing with every project I do.
     </a>    
     <a href="https://www.open-mpi.org/">  
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/OpenMPI.svg" width="50" height="50" alt="OpenMPI Icon" />
-    </a>
+    </a>    
 </div>
 
 <!-- Connect with me section -->
@@ -76,6 +83,7 @@ My toolbox keeps growing with every project I do.
     <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Discord.svg" width="50" height="50" alt="Discord Icon" />
 </a>
 
+---
 <!-- ProTip -->
 <p align="center">
 <b>ProTip</b>💡 Click on any icon you do not recognize to learn more!
