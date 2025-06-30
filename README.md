@@ -49,11 +49,8 @@ To compliment my mathematical studies I have learned many skills. So far I have 
     <a href="https://numpy.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/NumPy.svg" width="50" height="50" alt="Numpy Icon" />
     </a>
-    <a href="https://numpy.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Hydra1.svg" width="50" height="50" alt="Matplotlib Icon" />
-    </a>
-    <a href="https://numpy.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Hydra2.svg" width="50" height="50" alt="Matplotlib Icon" />
+    <a href="https://hydra.cc/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Hydra1.svg" width="50" height="50" alt="Hydra Icon" />
     </a>
 </div>
 
