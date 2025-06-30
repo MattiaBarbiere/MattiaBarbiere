@@ -54,6 +54,7 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 
 <!-- In Progress section -->
 ## In Progress...
+My toolbox keeps growing with every project I do.
 <div>
     <a href="https://isocpp.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" height="50" alt="C++ Icon" />
@@ -74,6 +75,11 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 <a href="https://discordapp.com/users/369133265992548352">
     <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Discord.svg" width="50" height="50" alt="Discord Icon" />
 </a>
+
+<!-- ProTip -->
+<p align="center">
+<b>ProTip</b>💡 Click on any icon you do not recognize to learn more!
+</p>
 
 <!-- Bottom wave of the page -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer" alt="footer"/>
