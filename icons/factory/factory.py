@@ -64,7 +64,7 @@ def convert_image_to_svg(image_name, output_name, size=256, corner_radius=60, bg
 if __name__ == "__main__":
     # Call the conversion function with a custom background color
     convert_image_to_svg("EPFL_logo.jpg", "EPFL.svg", bg_color="#FF0000")
-    convert_image_to_svg("CUDA_logo.png", "CUDA.svg", bg_color="#F3F2ED")
+    convert_image_to_svg("CUDA_logo_resized.png", "CUDA.svg", bg_color="#F3F2ED")
     convert_image_to_svg("CUDA_logo2.png", "CUDA2.svg", bg_color="#F3F2ED")
     convert_image_to_svg("openmpi_logo.webp", "OpenMPI.svg", bg_color="#F3F2ED")
     convert_image_to_svg("matplotlib_logo.png", "Matplotlib.svg", bg_color="#F3F2ED")
