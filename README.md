@@ -68,7 +68,10 @@ My toolbox keeps growing with every project I do. Currently in my learning pipel
     </a>    
     <a href="https://www.open-mpi.org/">  
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/OpenMPI.svg" width="50" height="50" alt="OpenMPI Icon" />
-    </a>    
+    </a>
+    <a href="https://julialang.org/">  
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Julia-Light.svg" width="50" height="50" alt="Julia Icon" />
+    </a>
 </div>
 
 <!-- Connect with me section -->
