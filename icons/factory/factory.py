@@ -71,3 +71,4 @@ if __name__ == "__main__":
     convert_image_to_svg("numpy.png", "NumPy.svg", bg_color="#F3F2ED")
     convert_image_to_svg("hydra1.png", "Hydra1.svg", bg_color="#F3F2ED")
     convert_image_to_svg("hydra2.png", "Hydra2.svg", bg_color="#89B8CC")
+    convert_image_to_svg("Jupyter_logo.png", "Jupyter.svg", bg_color="#F3F2ED")

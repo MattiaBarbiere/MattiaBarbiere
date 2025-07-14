@@ -52,6 +52,9 @@ To compliment my mathematical studies I have learned many skills. So far I have 
     <a href="https://hydra.cc/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Hydra1.svg" width="50" height="50" alt="Hydra Icon" />
     </a>
+    <a href="https://jupyter.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Jupyter.svg" width="50" height="50" alt="Jupyter Icon" />
+    </a>
 </div>
 
 <!-- If you want to use skillicons.dev: [![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light)]() -->
