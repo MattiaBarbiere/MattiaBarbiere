@@ -25,32 +25,32 @@ To compliment my mathematical studies I have learned many skills. So far I have 
     <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" />
     </a>
+    <a href="https://pytorch.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" width="50" height="50" alt="PyTorch Icon" />
+    </a>
+    <a href="https://numpy.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/NumPy.svg" width="50" height="50" alt="Numpy Icon" />
+    </a>
+    <a href="https://scikit-learn.org/stable/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/SciKitLearn-Light.svg" width="50" height="50" alt="SciKitLearn Icon" />
+    </a>
+    <a href="https://matplotlib.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matplotlib.svg" width="50" height="50" alt="Matplotlib Icon" />
+    </a>
+    <a href="https://hydra.cc/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Hydra1.svg" width="50" height="50" alt="Hydra Icon" />
+    </a>
     <a href="https://github.com/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" height="50" alt="Github Icon" />
     </a>
     <a href="https://git-scm.com/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" width="50" height="50" alt="Git Icon" />
     </a>
-    <a href="https://pytorch.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" width="50" height="50" alt="PyTorch Icon" />
-    </a>
     <a href="https://www.latex-project.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LaTeX-Light.svg" width="50" height="50" alt="Latex Icon" />
     </a>
-    <a href="https://scikit-learn.org/stable/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/SciKitLearn-Light.svg" width="50" height="50" alt="SciKitLearn Icon" />
-    </a>
     <a href="https://code.visualstudio.com/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/VSCode-Light.svg" width="50" height="50" alt="VSCode Icon" />
-    </a>
-    <a href="https://matplotlib.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matplotlib.svg" width="50" height="50" alt="Matplotlib Icon" />
-    </a>
-    <a href="https://numpy.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/NumPy.svg" width="50" height="50" alt="Numpy Icon" />
-    </a>
-    <a href="https://hydra.cc/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Hydra1.svg" width="50" height="50" alt="Hydra Icon" />
     </a>
     <a href="https://jupyter.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Jupyter.svg" width="50" height="50" alt="Jupyter Icon" />
@@ -59,7 +59,7 @@ To compliment my mathematical studies I have learned many skills. So far I have 
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" height="50" alt="C++ Icon" />
     </a>
     <a href="[https://isocpp.org/](https://www.mathworks.com/?s_tid=gn_logo)">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/MATLAB_light.svg" width="50" height="50" alt="C++ Icon" />
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matlab_Light.svg" width="50" height="50" alt="MATLAB Icon" />
     </a>
 </div>
 
@@ -70,7 +70,7 @@ To compliment my mathematical studies I have learned many skills. So far I have 
 My toolbox keeps growing with every project I do. Currently in my learning pipeline I have
 <div>
     <a href="[https://isocpp.org/](https://www.docker.com/)">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Docker.svg" width="50" height="50" alt="C++ Icon" />
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Docker.svg" width="50" height="50" alt="Docker Icon" />
     </a> 
     <a href="https://developer.nvidia.com/cuda-zone">  
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CUDA.svg" width="50" height="50" alt="CUDA Icon" />
