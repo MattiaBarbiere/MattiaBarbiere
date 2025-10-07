@@ -55,6 +55,12 @@ To compliment my mathematical studies I have learned many skills. So far I have 
     <a href="https://jupyter.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Jupyter.svg" width="50" height="50" alt="Jupyter Icon" />
     </a>
+    <a href="https://isocpp.org/">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" height="50" alt="C++ Icon" />
+    </a>
+    <a href="[https://isocpp.org/](https://www.mathworks.com/?s_tid=gn_logo)">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/MATLAB_light.svg" width="50" height="50" alt="C++ Icon" />
+    </a>
 </div>
 
 <!-- If you want to use skillicons.dev: [![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light)]() -->
@@ -63,9 +69,9 @@ To compliment my mathematical studies I have learned many skills. So far I have 
 ## In Progress...
 My toolbox keeps growing with every project I do. Currently in my learning pipeline I have
 <div>
-    <a href="https://isocpp.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" height="50" alt="C++ Icon" />
-    </a>   
+    <a href="[https://isocpp.org/](https://www.docker.com/)">
+        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Docker.svg" width="50" height="50" alt="C++ Icon" />
+    </a> 
     <a href="https://developer.nvidia.com/cuda-zone">  
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CUDA.svg" width="50" height="50" alt="CUDA Icon" />
     </a>    
