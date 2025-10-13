@@ -6,6 +6,7 @@
 <!-- Top wave of the page -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=header" alt="header"/> 
 
+<div align="center">
 <!-- Name and title -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2500&pause=500&color=4A90E2&width=435&lines=Hello%2C+my+name+is+Mattia+Barbiere;Welcome+to+my+GitHub+page!" alt="Typing SVG"/>
 
@@ -14,14 +15,16 @@
 Hey! I'm a MSc student in applied mathematics with a passion for scientific computing. I love diving into both the theory and practice of math and computer science. Right now, I'm exploring meaningful ways AI can help people so that my models can have a positive impact on peoples lives. I enjoy working on complex problems and creating solutions that mix math with computing. Check out my projects and feel free to connect if you're into similar topics!
 
 ### Studying at
-<a href="https://www.epfl.ch/en/">
+<div align="center">
+    <a href="https://www.epfl.ch/en/">
     <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/EPFL.svg" width="50" height="50" alt="EPFL Icon" />
-</a>
+    </a>
+</div>
 
 <!-- My Toolbox section -->
 ## My Toolbox
 To compliment my mathematical studies I have learned many skills. So far I have learned
-<div align="center" style="align-items: center;">
+<div align="center">
     <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" />
     </a>
@@ -68,7 +71,7 @@ To compliment my mathematical studies I have learned many skills. So far I have 
 <!-- In Progress section -->
 ## In Progress...
 My toolbox keeps growing with every project I do. Currently in my learning pipeline I have
-<div>
+<div align="center">
     <a href="https://www.docker.com/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Docker.svg" width="50" height="50" alt="Docker Icon" />
     </a> 
@@ -85,18 +88,22 @@ My toolbox keeps growing with every project I do. Currently in my learning pipel
 
 <!-- Connect with me section -->
 ## Connect with me!
-<a href="https://www.linkedin.com/in/mattia-nino-barbiere/">
+<div align="center">
+    <a href="https://www.linkedin.com/in/mattia-nino-barbiere/">
     <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LinkedIn.svg" width="50" height="50" alt="LinkedIn Icon" />
-</a>
-<a href="https://discordapp.com/users/369133265992548352">
+    </a>
+    <a href="https://discordapp.com/users/369133265992548352">
     <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Discord.svg" width="50" height="50" alt="Discord Icon" />
-</a>
+    </a>
+</div>
 
 ---
 <!-- ProTip -->
-<p align="center">
+<p>
 <b>ProTip</b>💡 Click on any icon you do not recognize to learn more!
 </p>
+
+</div>
 
 <!-- Bottom wave of the page -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer" alt="footer"/>
