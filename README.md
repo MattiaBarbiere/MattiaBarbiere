@@ -11,7 +11,7 @@
 
 <!-- About Me section -->
 ## About Me
-Hey! I'm a MSc student in applied mathematics with a passion for scientific computing. I love diving into both the theory and practice of math and computer science. Right now, I'm exploring machine learning and neural networks, especially how they can solve partial differential equations (PDEs). I enjoy working on complex problems and creating solutions that mix math with computing. Check out my projects and feel free to connect if you're into similar stuff!
+Hey! I'm a MSc student in applied mathematics with a passion for scientific computing. I love diving into both the theory and practice of math and computer science. Right now, I'm exploring meaningful ways AI can help people so that my model can have a positive impact on peoples lives. I enjoy working on complex problems and creating solutions that mix math with computing. Check out my projects and feel free to connect if you're into similar topics!
 
 ### Studying at
 <a href="https://www.epfl.ch/en/">
@@ -21,7 +21,7 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 <!-- My Toolbox section -->
 ## My Toolbox
 To compliment my mathematical studies I have learned many skills. So far I have learned
-<div align="left" style="align-items: left;">
+<div align="left" style="align-items: center;">
     <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" />
     </a>
