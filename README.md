@@ -16,54 +16,15 @@ Hey! I'm a MSc student in applied mathematics with a passion for scientific comp
 
 ### Studying at
 <div align="center">
-    <a href="https://www.epfl.ch/en/">
-    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/EPFL.svg" width="50" height="50" alt="EPFL Icon" />
-    </a>
+    <a href="https://www.epfl.ch/en/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/EPFL.svg" width="50" height="50" alt="EPFL Icon" /></a>
 </div>
 
 <!-- My Toolbox section -->
 ## My Toolbox
 To compliment my mathematical studies I have learned many skills. So far I have learned
+
 <div align="center">
-    <a href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" />
-    </a>
-    <a href="https://pytorch.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" width="50" height="50" alt="PyTorch Icon" />
-    </a>
-    <a href="https://numpy.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/NumPy.svg" width="50" height="50" alt="Numpy Icon" />
-    </a>
-    <a href="https://scikit-learn.org/stable/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/SciKitLearn-Light.svg" width="50" height="50" alt="SciKitLearn Icon" />
-    </a>
-    <a href="https://matplotlib.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matplotlib.svg" width="50" height="50" alt="Matplotlib Icon" />
-    </a>
-    <a href="https://hydra.cc/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Hydra1.svg" width="50" height="50" alt="Hydra Icon" />
-    </a>
-    <a href="https://github.com/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" height="50" alt="Github Icon" />
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" width="50" height="50" alt="Git Icon" />
-    </a>
-    <a href="https://www.latex-project.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LaTeX-Light.svg" width="50" height="50" alt="Latex Icon" />
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/VSCode-Light.svg" width="50" height="50" alt="VSCode Icon" />
-    </a>
-    <a href="https://jupyter.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Jupyter.svg" width="50" height="50" alt="Jupyter Icon" />
-    </a>
-    <a href="https://isocpp.org/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" height="50" alt="C++ Icon" />
-    </a>
-    <a href="https://www.mathworks.com/?s_tid=gn_logo">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matlab-Light.svg" width="50" height="50" alt="MATLAB Icon" />
-    </a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Python-Light.svg" width="50" height="50" alt="Python Icon" /></a>&nbsp;<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/PyTorch-Light.svg" width="50" height="50" alt="PyTorch Icon" /></a>&nbsp;<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/NumPy.svg" width="50" height="50" alt="Numpy Icon" /></a>&nbsp;<a href="https://scikit-learn.org/stable/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/SciKitLearn-Light.svg" width="50" height="50" alt="SciKitLearn Icon" /></a>&nbsp;<a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matplotlib.svg" width="50" height="50" alt="Matplotlib Icon" /></a>&nbsp;<a href="https://hydra.cc/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Hydra1.svg" width="50" height="50" alt="Hydra Icon" /></a>&nbsp;<a href="https://github.com/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" height="50" alt="Github Icon" /></a>&nbsp;<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" width="50" height="50" alt="Git Icon" /></a>&nbsp;<a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LaTeX-Light.svg" width="50" height="50" alt="Latex Icon" /></a>&nbsp;<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/VSCode-Light.svg" width="50" height="50" alt="VSCode Icon" /></a>&nbsp;<a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Jupyter.svg" width="50" height="50" alt="Jupyter Icon" /></a>&nbsp;<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" height="50" alt="C++ Icon" /></a>&nbsp;<a href="https://www.mathworks.com/?s_tid=gn_logo"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matlab-Light.svg" width="50" height="50" alt="MATLAB Icon" /></a>
 </div>
 
 <!-- If you want to use skillicons.dev: [![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light)]() -->
@@ -71,30 +32,16 @@ To compliment my mathematical studies I have learned many skills. So far I have 
 <!-- In Progress section -->
 ## In Progress...
 My toolbox keeps growing with every project I do. Currently in my learning pipeline I have
+
 <div align="center">
-    <a href="https://www.docker.com/">
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Docker.svg" width="50" height="50" alt="Docker Icon" />
-    </a> 
-    <a href="https://developer.nvidia.com/cuda-zone">  
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CUDA.svg" width="50" height="50" alt="CUDA Icon" />
-    </a>    
-    <a href="https://www.open-mpi.org/">  
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/OpenMPI.svg" width="50" height="50" alt="OpenMPI Icon" />
-    </a>
-    <a href="https://julialang.org/">  
-        <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Julia-Light.svg" width="50" height="50" alt="Julia Icon" />
-    </a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Docker.svg" width="50" height="50" alt="Docker Icon" /></a>&nbsp;<a href="https://developer.nvidia.com/cuda-zone"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CUDA.svg" width="50" height="50" alt="CUDA Icon" /></a>&nbsp;<a href="https://www.open-mpi.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/OpenMPI.svg" width="50" height="50" alt="OpenMPI Icon" /></a>&nbsp;<a href="https://julialang.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Julia-Light.svg" width="50" height="50" alt="Julia Icon" /></a>
 </div>
 
 <!-- Connect with me section -->
 ## Connect with me!
+
 <div align="center">
-    <a href="https://www.linkedin.com/in/mattia-nino-barbiere/">
-    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LinkedIn.svg" width="50" height="50" alt="LinkedIn Icon" />
-    </a>
-    <a href="https://discordapp.com/users/369133265992548352">
-    <img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Discord.svg" width="50" height="50" alt="Discord Icon" />
-    </a>
+<a href="https://www.linkedin.com/in/mattia-nino-barbiere/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LinkedIn.svg" width="50" height="50" alt="LinkedIn Icon" /></a>&nbsp;<a href="https://discordapp.com/users/369133265992548352"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Discord.svg" width="50" height="50" alt="Discord Icon" /></a>
 </div>
 
 ---
