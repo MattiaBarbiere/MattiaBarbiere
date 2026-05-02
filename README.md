@@ -27,13 +27,13 @@ To compliment my mathematical studies I have learned many skills. So far I have 
 <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/NumPy.svg" width="50" /></a>
 <a href="https://scikit-learn.org/stable/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/SciKitLearn-Light.svg" width="50" /></a>
 <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matplotlib.svg" width="50" /></a>
+<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" /></a>
 <a href="https://hydra.cc/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Hydra1.svg" width="50" /></a>
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Github-Light.svg" width="50" /></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Git.svg" width="50" /></a>
 <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LaTeX-Light.svg" width="50" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/VSCode-Light.svg" width="50" /></a>
 <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Jupyter.svg" width="50" /></a>
-<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/CPP.svg" width="50" /></a>
 <a href="https://www.mathworks.com/?s_tid=gn_logo"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Matlab-Light.svg" width="50" /></a>
 
 <!-- If you want to use skillicons.dev: [![My Skills](https://skillicons.dev/icons?i=py,github,git,pytorch,latex,sklearn,vscode&theme=light)]() -->
@@ -50,7 +50,7 @@ My toolbox keeps growing with every project I do. Currently in my learning pipel
 <!-- Connect with me section -->
 ## Connect with me!
 
-<a href="https://www.linkedin.com/in/mattia-nino-barbiere/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LinkedIn.svg" width="50" /></a>
+<a href="https://www.linkedin.com/in/mattia-barbiere/"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/LinkedIn.svg" width="50" /></a>
 <a href="https://discordapp.com/users/369133265992548352"><img src="https://raw.githubusercontent.com/MattiaBarbiere/MattiaBarbiere/main/icons/Discord.svg" width="50" /></a>
 
 ---
